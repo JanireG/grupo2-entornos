@@ -1,0 +1,2 @@
+En bases de datos hemos visto los tipos de relaciones, cómo hacer diagramas
+entidad relación, modelo relacional, modelo físico y consultas
